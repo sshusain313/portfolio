@@ -13,7 +13,7 @@ const Card3 = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <a href="https://fit-beige.vercel.app/">
+      <a href="https://fitness-black.vercel.app/">
         <img
           class="rounded-t-lg w-full"
           src={Fit}

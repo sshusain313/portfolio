@@ -13,7 +13,7 @@ const Card4 = () => {
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
       {/* Link wrapping the image */}
-      <a href="https://celebrated-kangaroo-cc3ba2.netlify.app/">
+      <a href="https://movie-kappa-dusky.vercel.app/">
         <img
           class="rounded-t-lg w-full"
           src={Movie}

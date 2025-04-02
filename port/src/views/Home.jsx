@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
 // import Typical from "react-typical";
-import Resume from '../assets/shabahat.pdf';
+import Resume from '../assets/hussain.pdf';
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";

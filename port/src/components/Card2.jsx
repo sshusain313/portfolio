@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import ecomm from '../assets/ecomm.png';
+import dabbahwala from '../assets/dabbahwala.png';
 
 const Card2 = () => {
   return (
@@ -13,29 +13,29 @@ const Card2 = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <a href="https://shopcart-ecommerce-site.vercel.app/">
+      <a href="https://dabbahwala.com/">
         <img
           class="rounded-t-lg w-full"
-          src={ecomm}
+          src={dabbahwala}
           alt=""
           style={{ height: '400px', width: '100%'}}
         />
       </a>
       <div class="p-5">
-        <a href="https://shopcart-ecommerce-site.vercel.app/">
+        <a href="https://dabbahwala.com/">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-           Shoppie - ecommerce app
+           Dabbahwala - Food Delivery app
           </h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+        {/* <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
           Here are the biggest enterprise technology acquisitions of 2021 so
           far, in reverse chronological order.
-        </p>
+        </p> */}
         <a
-          href="https://github.com/sshusain313/shoppee"
+          href="https://github.com/sshusain313/dabbahwala"
           class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
-          Read more
+          Github
           <svg
             class="ml-2 -mr-1 w-4 h-4"
             fill="currentColor"

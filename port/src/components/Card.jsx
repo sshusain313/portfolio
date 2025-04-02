@@ -27,15 +27,15 @@ const Card = () => {
             Tune Box - Music Player
           </h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+        {/* <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
           Here are the biggest enterprise technology acquisitions of 2021 so
           far, in reverse chronological order.
-        </p>
+        </p> */}
         <a
           href="https://github.com/sshusain313/tunebox"
           class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
-          Read more
+          Github
           <svg
             class="ml-2 -mr-1 w-4 h-4"
             fill="currentColor"
